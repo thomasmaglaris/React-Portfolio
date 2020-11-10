@@ -1,0 +1,60 @@
+.funny-icon {
+  font-size: 18px;
+}
+
+.bio-pic {
+  height: 40%;
+  width: 40%;
+}
+
+.contact-form {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+h1 {
+  font-family: "Lobster", cursive;
+  padding: 10px;
+}
+
+html {
+  background: antiquewhite;
+}
+
+.navbar {
+  background-color: black;
+}
+
+.navbar-item {
+  font-family: "Lobster", cursive;
+  color: antiquewhite;
+  font-size: 18px;
+}
+
+.results-card {
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 25px;
+}
+
+.results-card li {
+  width: 35%;
+  border-radius: 0.25rem;
+  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1),
+    0 0 0 1px rgba(10, 10, 10, 0.02);
+  padding: 15px;
+  background-color: ivory;
+}
+
+.img-thumbnail {
+  margin: auto;
+  display: block;
+}
+
+.project-desc {
+  text-align: center;
+}
+
+.portfolio-header {
+  text-align: center;
+}

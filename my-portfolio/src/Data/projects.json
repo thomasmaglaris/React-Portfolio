@@ -1,0 +1,44 @@
+[
+    {  
+        "id": 1,
+        "projectName": "EPL Fixture Guide",
+        "image": "./images/eplR.PNG",
+        "link": "https://thomasmaglaris.github.io/epl-fixture-guide/",
+        "repo": "https://github.com/thomasmaglaris/epl-fixture-guide"
+    },
+    {
+        "id": 2,
+        "projectName": "Work Day Scehduler",
+        "image": "./images/wdsR.PNG",
+        "deployed": "https://thomasmaglaris.github.io/Work-Day-Scheduler/",
+        "repo": "https://github.com/thomasmaglaris/Work-Day-Scheduler"
+    },
+    {
+        "id": 3,
+        "projectName": "Password Generator",
+        "image": "./images/pgR.PNG",
+        "link": "https://thomasmaglaris.github.io/Password-Generator/",
+        "repo": "https://github.com/thomasmaglaris/Password-Generator"
+    },
+    {
+        "id": 4,
+        "projectName": "Budget Tracker",
+        "image": "./images/btR.PNG",
+        "link": "https://desolate-plains-55410.herokuapp.com//",
+        "repo": "https://github.com/thomasmaglaris/budget-tracker"
+    },
+    {
+        "id": 5,
+        "projectName": "Professor Oak's Pokemon Love Calculator",
+        "image": "./images/plcR.PNG",
+        "link": "https://powerful-mountain-92684.herokuapp.com/",
+        "repo": "https://github.com/thomasmaglaris/Professor-Oak-s-Pokemon-Love-Calculator"
+    },
+    {
+        "id": 6,
+        "projectName": "Bar-chitect Cocktail Generator",
+        "image": "./images/bR.PNG",
+        "link": "https://bar-chitect.herokuapp.com/",
+        "repo": "https://github.com/thomasmaglaris/Bar-chitect"
+    }
+]
